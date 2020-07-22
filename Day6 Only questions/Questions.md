@@ -18,9 +18,9 @@ required for the amount.Program to find minimum number of notes required for the
 5.	Find the absolute value of a number entered through the keyboard without using any inbuilt function.
 
 6.	Given the length and breadth of a rectangle, write a program to find whether the area of the rectangle is greater than its perimeter. 
-     <br>For example, the area of the rectangle with length = 5 and breadth = 4 is greater than its perimeter.
+     <br>For example, the area of the rectangle with length = 5 and breadth = 4 is greater than its perimeter. *Hint*
 
-7.	Given a point (x, y), write a program to find out if it lies on the x-axis, y-axis or at the origin, viz. (0, 0).
+7.	Given a point (x, y), write a program to find out if it lies on the x-axis, y-axis or at the origin, viz. (0, 0). 
 
 8.	Given the coordinates (x, y) of a center of a circle and it’s radius, write a program which will determine whether a point lies inside the circle, on the circle or outside the circle.<br>
 for ex. center of circle(3,3) and radius is 4,now user input 0,0 as x,y
