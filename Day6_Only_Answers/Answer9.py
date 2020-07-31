@@ -1,5 +1,5 @@
 hardness = int (input("Enter the hardness:" ))
-carbonContent = int (input("Enter the carbon content:" ))
+carbonContent = float (input("Enter the carbon content:" ))
 tensileStrength = int (input("Enter the tensile strength:" ))
 
 def IsCondition1Passed():
@@ -20,15 +20,15 @@ def IsCondition3Passed():
     else:
         return False
   
-if (IsCondition1Passed and IsCondition2Passed and IsCondition3Passed):
+if (IsCondition1Passed() and IsCondition2Passed() and IsCondition3Passed ()):
     print ("your Steel Grade is 10")
-elif (IsCondition1Passed and IsCondition2Passed):
+elif (IsCondition1Passed() and IsCondition2Passed()):
     print ("your steel Grade is 9")
-elif (IsCondition2Passed and IsCondition3Passed):
+elif (IsCondition2Passed() and IsCondition3Passed()):
     print("your Steel Grade is 8")
-elif (IsCondition1Passed and IsCondition3Passed):
+elif (IsCondition1Passed() and IsCondition3Passed()):
     print("your Steel Grade is 7")
-elif (IsCondition1Passed or IsCondition2Passed or IsCondition3Passed):
+elif (IsCondition1Passed() or IsCondition2Passed() or IsCondition3Passed()):
     print("your Steel Grade is 6")
 else:
     print("your Steel Grade is 5")
