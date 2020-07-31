@@ -4,21 +4,21 @@ tensileStrength = int (input("Enter the tensile strength:" ))
 
 def IsCondition1Passed():
     if hardness>50:
-        return true
+        return True
     else:
-        return false
+        return False
 
 def IsCondition2Passed():
     if carbonContent<0.7:
-        return true
+        return True
     else:
-        return false
+        return False
 
 def IsCondition3Passed():
     if tensileStrength>5600:
-        return true
+        return True
     else:
-        return false
+        return False
   
 if (IsCondition1Passed and IsCondition2Passed and IsCondition3Passed):
     print ("your Steel Grade is 10")
