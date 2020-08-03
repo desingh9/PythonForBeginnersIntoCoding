@@ -3,8 +3,8 @@ ages=input("enter the ages of Person with Space")
 agesIntList=[]
 agesList=ages.split (" ")
 for age in agesList:
-    agesIntList.append (int(age)) #to convert ages value in integer 
+    agesIntList.append (int(age))    #to convert ages value in integer 
 
 print(" Before " ,agesIntList)
 agesIntList.sort()
-print(" after " ,agesIntlist)
+print(" after " ,agesIntList)
