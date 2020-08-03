@@ -1,9 +1,10 @@
 #2.) Take input of age of 3 people by user and determine oldest and youngest among them.
-ages=input("enter the age of Person with Space")
-agesList=[]
+ages=input("enter the ages of Person with Space")
+agesIntList=[]
 agesList=ages.split (" ")
-for ages in agesList:
-    agesList.append (int)(age) #to convert ages value in integer 
-print("Before" ,agesList)
-agesList.sort()
-print("after" ,ageslist)
+for age in agesList:
+    agesIntList.append (int(age)) #to convert ages value in integer 
+
+print(" Before " ,agesIntList)
+agesIntList.sort()
+print(" after " ,agesIntlist)
