@@ -4,7 +4,7 @@
 print("List")
 marksOfStudents =[ 23,45,16,2,5,5.67]
 print(marksOfStudents[-3])
-marksOfStudents.insert(1,94):
+marksOfStudents.insert(40,94):
 print("Before Sorting ",marksOfStudents)
 marksOfStudents.sort();
 print("After Sorting ",marksOfStudents)

@@ -7,4 +7,4 @@ elif(A>=45) and (A<=55) and (B>=55):
 elif(B<45) and (A>=65):
     print ("you are allwed to reappear")
 else:
-    print("fail - game over")
+    print("fail - game over! Try Again")
