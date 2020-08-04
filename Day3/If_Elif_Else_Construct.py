@@ -12,4 +12,4 @@ else:
         print("Either pwd or username is wrong .")
     else:
         print("Wrong username & pwd entered. ")
-print("Pogram exit.")
+print("Program exit.")
