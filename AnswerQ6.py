@@ -1,8 +1,8 @@
 #6.) Write a program to check vowel or consonant.
 I=(input("please input letter from Small Alphabet: "))
 
-if I in ('a' , 'e','i','o','u'):
-    print(","" is a vowel ")
+if I in ('a','e','i','o','u'):
+    print(" is a vowel ")
 else:
     print (" %s is a constant")
 
