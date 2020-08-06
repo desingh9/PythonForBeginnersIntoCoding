@@ -1,6 +1,6 @@
 value=5
-print(f"your luck no is {value} and you have lost it. ")
-print("your luck no is {} and you have lost it. ".format(value))
+print(f"your lucky no is {value} and you have lost it. ")
+print("your lucky no is {} and you have lost it. ".format(value))
 
 
 no=int(input("Enter the no:"))
