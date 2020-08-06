@@ -3,10 +3,11 @@
 # as we are not asking year here. so assume the month day to be 28.
 
 month=input("Pleaes enter the month")
-
-def numberOfDays( m):
+daysofmonths = ("Jan","Mar", "May", "Jul", "Aug", "Oct","Dec")
+def numberOfDays():
 list = [1,3,5,7,8,10,12]
-if m==2:
-    print (28)
-if m in list:
-    print ( " No. of Days in Month is 31")
+if (input (list))
+    print ("no of days is 31")
+
+elif (int (input 2):
+    print ( "no of days are 28")
