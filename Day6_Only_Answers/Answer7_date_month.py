@@ -14,4 +14,3 @@ elif m==4 or m==6 or m==9 or m==11: #List2 can be use also for same logic
     print ("days in month is 30")
 else:
     print ("invalid input please try again")
-    
