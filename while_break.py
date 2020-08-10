@@ -3,7 +3,7 @@
 while (i<100):
     print(i+1)
     if (i==57) :
-        break
+        break  
     i+=1"""
 
 i=0
