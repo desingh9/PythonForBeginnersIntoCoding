@@ -6,7 +6,8 @@
 
     ********"""
 
+
 for i in range (3):
-    for y in range (i+1):
-        print("#" ,end = " ")
-print ()
+    for h in range (i+1):
+        print(" * " ,end = " ")
+print("")
