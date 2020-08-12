@@ -6,7 +6,7 @@
 
     ********"""
 
-n=0
-for n in range (0)
-
-print ("*" , end="")
+for i in range (3):
+    for y in range (i+1):
+        print("#" ,end = " ")
+print ()
