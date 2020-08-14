@@ -1,6 +1,6 @@
 #Print a table using while loop 
-x=int(input("enter the number : ")) #input
-table=1
-while table <=10: #enter the range required to print
-    print (f"{x}  x {table} = {table * x}" ) #format as output needed
-    table+=1
+x=int(input("enter the number : "))
+i=1
+while i <=10:
+    print (f"{x}  x {i} = {i * x}" )
+    i+=1
