@@ -1,10 +1,10 @@
 1)	Write a program to find the missing number in a given integer array of 1 to 100?
-2)	Write a program to find the duplicate number on a given integer array?
-3)	Write a program to find the largest and smallest number in an unsorted integer array?
-4)	Write a program to check if a given string is a palindrome?
+2)	Write a program to find the duplicate number on a given integer array? 1,3,3,4 =3 or 1929 =9
+3)	Write a program to find the largest and smallest number in an unsorted integer array? 
+4)	Write a program to check if a given string is a palindrome? 4554 
 
 5)	Write a program  to generate 6 digit random secure OTP 
-code to generate random no:
+code to generate random no: 
 import random
 print("Random integer from 0 to 9")
 num1 = random.randint(0, 9)
