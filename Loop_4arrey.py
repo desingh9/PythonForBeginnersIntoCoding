@@ -18,5 +18,5 @@ def getMissingNo(a, n):
 	return total 
 
 # Driver Code 
-arr = [1, 2, 3, 5] 
-print(getMissingNo(arr, len(arr))) 
+arr = [1, 2, 3, 4,6] 
+print("Missing no is ", getMissingNo(arr, len(arr))) 
