@@ -9,6 +9,6 @@ generator = GetPerfectSquare()
 print(generator.__next__())
 print(generator.__next__())
 print(generator.__next__())
-print("Now use for loop to iterate over generator.")
+#print("Now use for loop to iterate over generator.")
 for i in generator:
     print(i)
