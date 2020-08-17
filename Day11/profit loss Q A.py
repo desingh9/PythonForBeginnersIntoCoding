@@ -21,8 +21,8 @@ def EvaluateProfitOrLossPercent(B, A):
         print(" No profit no loss.")
 
 
-sp=int(input("enter your Selling price "))
-cp=int(input("enter your COST Price"))
+sp=int(input("enter your Selling price : "))
+cp=int(input("enter your COST Price : "))
 EvaluateProfitOrLoss(cp,sp)
 EvaluateProfitOrLossPercent(cp,sp)
 

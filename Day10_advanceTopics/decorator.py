@@ -21,4 +21,4 @@ def powerOf2(no):
     print(no**2)
 
 
-powerOf2(9)
+powerOf2(96)
