@@ -14,11 +14,6 @@ while num < 12:
 
 
 num=0
-while num < 5:
+while num < 6:
   num+=1
-  print ("*")
-  #if (num == 10):
-
-   # break
-  
-  
+  print ("*" ," 1")

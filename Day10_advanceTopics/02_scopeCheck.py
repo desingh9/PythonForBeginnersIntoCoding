@@ -1,4 +1,4 @@
-x = 'Hi D'
+x = 'Hi'
 def read_x():
     global x
     x="world"
