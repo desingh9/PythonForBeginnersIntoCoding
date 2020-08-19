@@ -31,9 +31,10 @@ for 4 in range (1,5):
         position =1
     if ((98<75)):
         
+#for 5 in range (1,5):
+#exit
 
-for 5 in range (1,5):
-    exit
+
 print('smallest element in the list is :' , Smallest)
 print('index position of smallest element is :' ,largest )
 print('largest position in')
