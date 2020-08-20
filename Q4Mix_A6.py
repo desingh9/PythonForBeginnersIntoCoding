@@ -5,9 +5,9 @@
 1 2 3 4<br>
 1 2 3 4 5<br>"""
 
-#x=int(input("enter the nuber to print row :"))
-x=6
-for x in range (1,x):
+x=int(input("enter the nuber to print row :"))
+
+for x in range (1, x):
     for y in range (x):
 
         print (x,end=" ")
