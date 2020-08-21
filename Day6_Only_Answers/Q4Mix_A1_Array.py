@@ -16,7 +16,7 @@ for no in range(0,max+1):
 # original array
 print(arr)
 
-# marking index in occurrance array to 1 for all no in original array. marking indexes that are present in original array
+# marking index in occurrance array to 1 for all no. in original array. marking indexes that are present in original array
 for no in arr:
     occurranceOfDigit[no]=1 
 

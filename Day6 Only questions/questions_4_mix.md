@@ -15,7 +15,7 @@ num1 = random.randint(0, 9)
 1 2<br>
 1 2 3<br>
 1 2 3 4<br>
-1 2 3 4 5<br>
+1 2 3 4 5<br> solved
 
 7)	Write a program  to accept number from user and calculate the sum of all number between 1 and given number
 For example user given 10 so the output should be 55

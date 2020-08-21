@@ -3,6 +3,6 @@ arr= [0,1,2,3,2,4,5,8,8,4]
 print ("Duplicate element in given arrey: ")
 #Searches for Duplicate elements
 for i in range (0,len (arr)):
-    for j in range (i+1, len (arr)):
+a    for j in range (i+1, len (arr)):
         if (arr[i]== arr[j]):
             print (":" ,arr[j] , end =(" "))
