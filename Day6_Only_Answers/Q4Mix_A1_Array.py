@@ -1,6 +1,6 @@
 #1)	Write a program to find All the missing numbers in a given integer array ?
 
-arr = [1, 2,5,9,3,11,15] 
+arr = [1, 2,5,9,3,11,12] 
 occurranceOfDigit=[]
 
 # finding max no so that , will create list will index till max no .
