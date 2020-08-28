@@ -5,10 +5,10 @@
 #2 1 <br>
 #1<br>
 
-#i=int(input("enter the nuber to print row :"))
+i=int(input("enter the nuber to print row :"))
 
-for a in range (1,6):
-    for z in range (a,6):
+for a in range (i):
+    for z in range (a,i):
 
-        print ( z,end=" ")
-    print()
+        print ( 6-z ,end=" ")
+    print("<br>")
