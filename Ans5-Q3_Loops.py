@@ -12,12 +12,12 @@ for i in range(n):
 
     #print(" "*(n-i-1),end="")
     #space
-    for k in range(n-i-1):
+    for x in range(n-i-1):
         print(" ",end="")
     #print extra*
     print("#",end="")
     #print star according to no
-    for j in range (2*i):
+    for y in range (2*i):
        # print("" ,end=" ")
         print("#",end="" )
     print()
