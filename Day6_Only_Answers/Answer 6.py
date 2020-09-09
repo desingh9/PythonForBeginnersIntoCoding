@@ -9,4 +9,4 @@ perimeter=int(2*(length+breadth))
 if perimeter>area:
     print(f"perimenter is greater {perimeter}")
 elif area>perimeter:
-    print(f"area is Greater")
+    print(f"area ({area}) is Greater than perimeter ({perimeter}) ")
