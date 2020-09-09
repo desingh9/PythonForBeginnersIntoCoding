@@ -8,5 +8,5 @@
 
 for k in range (3):
     for h in range (k+1):
-        print(f" * " ,"Star" ) #it will print * Star
+        print(f" * " ,end ="Star" ) #it will print * Star
 print(" ")
