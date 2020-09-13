@@ -4,7 +4,7 @@
     
     Example when n=8:
 
-    ********"""
+    ******** """
 
 for k in range (3):
     for h in range (k+1):
