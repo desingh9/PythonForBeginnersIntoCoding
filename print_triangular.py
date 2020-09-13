@@ -1,0 +1,1 @@
+to display stars in equilateral triangular form

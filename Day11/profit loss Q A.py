@@ -22,7 +22,7 @@ def EvaluateProfitOrLossPercent(B, A):
 
 
 sp=int(input("enter your Selling price : "))
-cp=int(input("enter your COST Price : "))
+cp=int(input("enter your Cost Price : "))
 EvaluateProfitOrLoss(cp,sp) #cp=cost price and sp = selling price
 EvaluateProfitOrLossPercent(cp,sp)
 
