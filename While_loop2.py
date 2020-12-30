@@ -6,7 +6,7 @@
 
     ******** """
 
-for k in range (3):
-    for h in range (k+1):
+for y in range (3):
+    for h in range (y+1):
         print(f" * " ,end ="Star" ) #it will print * Star
-print(" ")
+print(" 2020 is ending")
